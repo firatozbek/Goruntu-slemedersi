@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 pwd  #ile hangi konumda olduğumuzu öğreniyoruz
-# 'C:\\Users\\kübra'
+# 'C:\\Users\\firat'
 
 ls *.jpg  #o konumda  jpg uzantılı resimleri listeleme
 
